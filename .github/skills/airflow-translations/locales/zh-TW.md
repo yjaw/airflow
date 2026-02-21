@@ -78,7 +78,7 @@ English words, numbers, or symbols:
 **Correct** — full-width for Chinese sentences:
 
 ```json
-"confirmation": "你確定要刪除這個 {{resourceName}} 嗎？此動作無法復原。"
+"confirmation": "您確定要刪除這個 {{resourceName}} 嗎？此動作無法復原。"
 ```
 
 **Correct** — half-width for English/variable context:
